@@ -1,0 +1,7 @@
+Roxana:
+Booking System for Project Rooms
+ - Map (maybe use the one from the app?)
+
+Jonas:
+Ticket system for Events
+ - Use of NFC keys
