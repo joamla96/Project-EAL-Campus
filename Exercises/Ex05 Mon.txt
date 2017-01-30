@@ -41,7 +41,47 @@ Exercise 3.01 - Describe what an OS architecture is?
  Provides abstraction and arbitration.
 
 Exercise 3.02 - Try to draw your software architecture
-Utilities & Libaries
-Kernal
-Device Drivers | BIOS
-Hardware
+ Utilities & Libaries
+ Kernal
+ Device Drivers | BIOS
+ Hardware
+
+Exercise 4.01 - Describe what is a process ? 
+ An instance of a computer program, that is being executed.
+
+Exercise 4.02 - Describe what  the states of a process can be in? 
+ - New: First called; Program loads; Waiting for PCB to be constructed.
+ - Ready: Process is intialized.
+ - Run: Gets CPU Time
+ - Wait: Waiting for I/O or Resources
+ - Terminated: Exists Systems
+
+Exercise 4.03 - Describe what is a PCB?
+ Process Control Block
+ Is a data structure, that represents a process.
+ Contains important information such as:
+ - Current State of the process
+ - Unique Identifyer
+ - A pointer to parents process
+ - Pointer to child processes
+ - Priority
+ - Register save area
+ - Processor its running on
+
+Exercise 4.04 - Explain what a Process Scheduler is, and what it does
+ Part of the operating system that decides what process runs at certain times, moving the processes between their states
+ Decides what should be excetured.
+
+Exercise 4.05 - Describe what happen then the Process Scheduler switch between process A and B?
+ Allows a Processor to "multi-task" by taking the state of the running process (A) and storing it in its PCB.
+ Then the state is loaded from process B's PCB into the registers, and run.
+
+ TLDR; Stores and restores the states of the different processes. 
+
+Exercise 4.06 - Describe what is a message que and why it is necessary to have one ?
+ Nu
+
+Exercise 6.01 - Describe what is a Thread?
+ - Comes in 2 variants, User & Kernal Level.
+ - Entities schedules for execution on the CPU.
+ - A thread is a single set instructions within a Processs
