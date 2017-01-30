@@ -12,8 +12,8 @@ Exercise 1.01 - Describe what a cpu contain
  - Scheduling Units
  - Instruction Ques
 
-Exercise 1.02 - That is the register AC used for
- Memory for storing information temporarily, while the CPU is working on an instrucntion set.
+Exercise 1.02 - That is the register Address Counter used for
+ Memory for storing information about the next address in memory to be executed.
 
 Exercise 1.03 - What is flags?
  Flags are sotring the current state of the processor
