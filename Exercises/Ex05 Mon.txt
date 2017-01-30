@@ -13,10 +13,10 @@ Exercise 1.01 - Describe what a cpu contain
  - Instruction Ques
 
 Exercise 1.02 - That is the register Address Counter used for
- Memory for storing information about the next address in memory to be executed.
+ Register for storing information about the next address in memory to be executed.
 
 Exercise 1.03 - What is flags?
- Flags are sotring the current state of the processor
+ Flags are storing the current state of the processor
  - Eg. Scott CPU's ALU had flags to show if inputs was bigger, equal ect...
 
 Exercise 1.04 - Describe the bus?
@@ -32,6 +32,16 @@ Exercise 1.06 - Describe ALU?
  It does math and logic. Part of the CPU that is used the most.
 
 Exercise 1.07 - Explaining how at jump if condition works
- If a condition is true, it starts processing a differnt set of instructions in memory
+ Takes 2 inputs to the ALU
+ Run comparason
+ If a condition (flags) is true, it starts processing a differnt set of instructions in memory
 
+Exercise 3.01 - Describe what an OS architecture is? 
+ The Kernal, the core part of the operating system. First layer ontop of the hardware.
+ Provides abstraction and arbitration.
 
+Exercise 3.02 - Try to draw your software architecture
+Utilities & Libaries
+Kernal
+Device Drivers | BIOS
+Hardware
