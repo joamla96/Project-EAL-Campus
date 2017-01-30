@@ -84,4 +84,14 @@ Exercise 4.06 - Describe what is a message que and why it is necessary to have o
 Exercise 6.01 - Describe what is a Thread?
  - Comes in 2 variants, User & Kernal Level.
  - Entities schedules for execution on the CPU.
- - A thread is a single set instructions within a Processs
+ - A single set instructions within a Processs
+ - An independent set of values for the processor registers (for a single core)
+
+Exercise 6.02 - Describe what are the advantages / disadvantages of threads?  
+ + Kernal threads are good for applications that frequently block
+ - Kernal threads are MUCH slower than user level threads
+
+ + Threads allow for better usage of multi-core CPU's 
+ + Allows for parallel/concurrent processing
+
+ 
