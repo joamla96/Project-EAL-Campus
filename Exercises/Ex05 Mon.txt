@@ -1,23 +1,26 @@
-Exercise 1.01 
+Exercise 1.01 - Describe what a cpu contain
  - Control Unit
  - Registers
  - Clock
  - Arithmetic Logic Unit
 
-Exercise 1.02 
+Exercise 1.02 - That is the register AC used for
  Memory for storing information temporarily, while the CPU is working on an instrucntion set.
 
-Exercise 1.03 
+Exercise 1.03 - What is flags?
  Flags are sotring the current state of the processor
  - Eg. Scott CPU's ALU had flags to show if inputs was bigger, equal ect...
 
-Exercise 1.04 
+Exercise 1.04 - Describe the bus?
  The traces where information is transffered around the motherboard
 
-Exercise 1.05 
+Exercise 1.05 - What is an interrupt vector?
  An interrupt vector is the memory location of an interrupt handler
 
 Exercise 1.06 - Describe ALU?
  It does math and logic. Part of the CPU that is used the most.
 
 Exercise 1.07 - Explaining how at jump if condition works
+ If a condition is true, it starts processing a differnt set of instructions in memory
+
+
