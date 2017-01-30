@@ -1,8 +1,14 @@
 Exercise 1.01 - Describe what a cpu contain
- - Control Unit
+ - Instruction Control Unit
+ - Instruction Decode Unit
+ - Instruction Execution Unit 
+ - Address Generation Units
  - Registers
  - Clock
  - Arithmetic Logic Unit
+ - Cache
+ - The Bus
+ - Floating Points Units
 
 Exercise 1.02 - That is the register AC used for
  Memory for storing information temporarily, while the CPU is working on an instrucntion set.
