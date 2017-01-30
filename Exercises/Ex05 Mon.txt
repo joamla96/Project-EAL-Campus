@@ -8,7 +8,9 @@ Exercise 1.01 - Describe what a cpu contain
  - Arithmetic Logic Unit
  - Cache
  - The Bus
- - Floating Points Units
+ - Floating Points Units 
+ - Scheduling Units
+ - Instruction Ques
 
 Exercise 1.02 - That is the register AC used for
  Memory for storing information temporarily, while the CPU is working on an instrucntion set.
