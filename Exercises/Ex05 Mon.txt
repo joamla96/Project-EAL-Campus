@@ -79,7 +79,7 @@ Exercise 4.05 - Describe what happen then the Process Scheduler switch between p
  TLDR; Stores and restores the states of the different processes. 
 
 Exercise 4.06 - Describe what is a message que and why it is necessary to have one ?
- Nu
+ it cominicating between two processes 
 
 Exercise 6.01 - Describe what is a Thread?
  - Comes in 2 variants, User & Kernal Level.
