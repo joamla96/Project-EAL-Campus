@@ -5,3 +5,6 @@ Booking System for Project Rooms
 Jonas:
 Ticket system for Events
  - Use of NFC keys
+
+Marius:
+Cheaper Stuff
