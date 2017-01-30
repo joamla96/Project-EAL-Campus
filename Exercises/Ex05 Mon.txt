@@ -20,7 +20,7 @@ Exercise 1.03 - What is flags?
  - Eg. Scott CPU's ALU had flags to show if inputs was bigger, equal ect...
 
 Exercise 1.04 - Describe the bus?
- The traces where information is transffered around the motherboard
+ The traces where information is transffered around the CPU
 
 Exercise 1.05 - What is an interrupt vector?
  An interrupt vector is the memory location of an interrupt handler
